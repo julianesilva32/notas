@@ -138,6 +138,9 @@ body{
   font-size:12px;
   font-weight:700;
 }
+.aprovado{
+  color: green;
+}
 .frequencia{
   width: 500px;
 
